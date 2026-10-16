@@ -26,9 +26,9 @@ git init
 git add .
 git commit -m "Add Phase 2 mini projects with tests"
 git branch -M main
-git remote add origin https://github.com/<your-username>/core-concepts-project.git
+git remote add origin https://github.com/Kshitij9137/core-concepts-project.git
 git push -u origin main
 ```
 
 ## Author
-[Your Name]
+Kshitij Gupta
