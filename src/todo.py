@@ -25,7 +25,7 @@ class TodoList:
 
 if __name__ == "__main__":
     todo = TodoList()
-    todo.add("Learn Git")
+    todo.add("Learn Git/Github")
     todo.add("Finish Phase 2 report")
     todo.complete(1)
     for t in todo.tasks:

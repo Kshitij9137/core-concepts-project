@@ -24,8 +24,8 @@ class TestCalculator(unittest.TestCase):
 class TestTodo(unittest.TestCase):
     def test_add_and_complete(self):
         todo = TodoList()
-        todo.add("Task A")
-        todo.add("Task B")
+        todo.add("Task 1")
+        todo.add("Task 2")
         todo.complete(1)
         self.assertEqual(len(todo.pending()), 1)
 

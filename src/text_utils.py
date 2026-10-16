@@ -21,4 +21,4 @@ def factorial(n: int) -> int:
 if __name__ == "__main__":
     print(is_palindrome("A man, a plan, a canal: Panama"))
     print(word_frequency("to be or not to be"))
-    print(factorial(5))
+    print(factorial(4))

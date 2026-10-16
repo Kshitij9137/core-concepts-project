@@ -20,5 +20,5 @@ def divide(a: float, b: float) -> float:
 
 
 if __name__ == "__main__":
-    print("10 + 5 =", add(10, 5))
+    print("10 + 15 =", add(10, 15))
     print("10 / 4 =", divide(10, 4))
